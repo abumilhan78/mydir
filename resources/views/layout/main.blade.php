@@ -30,7 +30,9 @@
       <li class="nav-item">
         <a class="nav-link" href="{{ url('/mahasiswa') }}">Mahasiswa</a>
       </li>
-      
+      <li class="nav-item">
+        <a class="nav-link" href="{{ url('/students') }}">Students</a>
+      </li>
      
     </ul>
     <form class="form-inline my-2 my-lg-0">
